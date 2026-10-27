@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Yudha%20Dwi%20Kurniawan%20&fontSize=50&fontColor=FF9500&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Yudha%20Dwi%20Kurniawan%20&fontSize=50&fontColor=FF9500&fontAlignY=45&animation=twinkling&desc=A%20UI/UX%20and%20Full%20Stuck%20Developer&descSize=30&descAlignY=85&section=header" /> 
 
 I’m Yudha Dwi Kurniawan, an Informatics student at Universitas Dian Nuswantoro (UDINUS). I have a strong interest in UI/UX design, and I’m growing into an aspiring Full-Stack Developer and Software Engineer.
 
