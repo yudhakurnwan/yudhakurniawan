@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Yudha%20Dwi%20Kurniawan%20&fontSize=50&fontColor=&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Yudha%20Dwi%20Kurniawan%20&fontSize=50&fontColor=ffff&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" /> 
 
 I’m Yudha Dwi Kurniawan, an Informatics student at Universitas Dian Nuswantoro (UDINUS). I have a strong interest in UI/UX design, and I’m growing into an aspiring Full-Stack Developer and Software Engineer.
 
@@ -7,6 +7,7 @@ I focus on crafting digital products that are not only functional, but also intu
 As a quick learner and adaptive thinker, I thrive in dynamic environments where innovation drives progress. I enjoy collaborating with teams, value input from every member, and believe that great software comes from combining good design, clean code, and open communication.
 
 [![Mail Badge](https://img.shields.io/badge/-yudha.dwi202@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:yudha.dwi202@gmail.com)
+
 [![Instagram Badge](https://img.shields.io/badge/-@yudhakurnwan-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/yudhakurnwan)
 
 ### Core Tech Stacks
