@@ -11,11 +11,11 @@ As a quick learner and adaptive thinker, I thrive in dynamic environments where 
 [![Instagram Badge](https://img.shields.io/badge/-@yudhakurnwan-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/yudhakurnwan)
 
 ### Core Tech Stacks
-![My Skills](https://skillicons.dev/icons?i=figma,flutter,next)
+![My Skills](https://skillicons.dev/icons?i=figma,flutter)
 
 ### Other Tech Stacks
 
-![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,bootstrap,js,vite,dart,mysql,c)
+![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,bootstrap,js,vite,dart,mysql,cpp)
 
 ### Tools
 
