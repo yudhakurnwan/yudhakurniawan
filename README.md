@@ -11,7 +11,7 @@ As a quick learner and adaptive thinker, I thrive in dynamic environments where 
 [![Instagram Badge](https://img.shields.io/badge/-@yudhakurnwan-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/yudhakurnwan)
 
 ### Core Tech Stacks
-![My Skills](https://skillicons.dev/icons?i=bootstrap,flutter)
+![My Skills](https://skillicons.dev/icons?i=flutter,bootstrap)
 
 ### Other Tech Stacks
 
